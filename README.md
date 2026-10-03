@@ -1,2 +1,1 @@
-# Power-Grid-Connection-Planner
-A smart web-based system for planning and optimizing power grid connections efficiently.
+https://ais-pre-sbunnl4bo2olv3e3v6zrp5-966021117560.asia-east1.run.app.
